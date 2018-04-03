@@ -19,5 +19,5 @@ public class MesPetitExamen {
 			}
 		}
 		return min;
-	}
+	}//Ara des de local estic escribint aquest missatge.
 }
